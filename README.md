@@ -77,7 +77,7 @@ def markAttendance(name):
 Kết quả cuối cùng, ta được một project nhận diện khuôn mặt như sau: 
 
 <p align="center">
-	<img src="https://media4.giphy.com/media/vVMBHXcDbgxi25hKFS/giphy.gif?cid=790b7611f563a1d06f3724ad539fb3706b96a7e6280b4f15&rid=giphy.gif&ct=g" />
+	<img src="result.gif" />
 </p>
 
 # Installation
