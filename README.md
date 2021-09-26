@@ -70,7 +70,9 @@ def markAttendance(name):
 			 f.writelines(f'\n{name}, {dtStr}')
 ```
 
-![[Pasted image 20210926120456.png]]
+<p align="center">
+    <img src="https://i.imgur.com/h9ANt2W.png" />
+</p>
 
 Kết quả cuối cùng, ta được một project nhận diện khuôn mặt như sau: 
 
